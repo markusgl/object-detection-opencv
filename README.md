@@ -1,1 +1,1 @@
-# object-recognition-opencv
+# object-detection-opencv
